@@ -1,5 +1,5 @@
 
-#<h1 align="center">Hello there, I'm <a href="https://sheetal-cse-portfolio.netlify.app"> Sheetal Mishra </a><img src="https://c.tenor.com/qGMFl3TTip8AAAAi/billy-srgrafo.gif" width="50px"></h1>
+#<h1 align="center">Hey there, I'm <a href="https://sheetal-cse-portfolio.netlify.app"> Sheetal Mishra </a><img src="https://c.tenor.com/qGMFl3TTip8AAAAi/billy-srgrafo.gif" width="50px"></h1>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sheetal-mishra-9baa0122a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,7 +16,7 @@
 
 - 🌱 I'm currently learning everything **Web Dev** has to offer. 😊
 - 🌐 I’m looking forward to contribute to any open source projects.
-- ⚡ Fun fact: I also play gpiano .
+- ⚡ Fun fact: I also play piano .
 
 ---
 
