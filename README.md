@@ -16,7 +16,7 @@
 
 - 🌱 I'm currently learning everything **Web Dev** has to offer. 😊
 - 🌐 I’m looking forward to contribute to any open source projects.
-- ⚡ Fun fact: I also play piano .
+
 
 ---
 
